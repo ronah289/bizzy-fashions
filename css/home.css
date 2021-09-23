@@ -68,7 +68,7 @@ body {
 }
 
 .hero {
-  background-image: url('homeimages/fashion-big_Big.jpg');
+  background-image: url('../homeimages/fashion-big_Big.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position:center;
