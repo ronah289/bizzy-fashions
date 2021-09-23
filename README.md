@@ -2,11 +2,11 @@
 
 ## Authors
 
-* KPBT Ronald
-* danieltendet
-* khalid-serar
-* Swakaa
-* Willard
+* [KPBT Ronald](https://github.com/ronah289)
+* [Daniel Tendet](https://github.com/danieltendet)
+* [khalid Serar](https://github.com/khalid00312)
+* [Anthony Swakaa](https://github.com/swakaa)
+* [Willard Sigei](https://github.com/willardsigei)
 
 ## Description
 
