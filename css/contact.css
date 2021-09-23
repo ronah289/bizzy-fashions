@@ -1,0 +1,20 @@
+body{
+    background-color: aquamarine;
+    height: 100%;
+    overflow: scroll;
+}
+h1{
+    text-align: center;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+#name{
+    display: block;
+    font-weight: bolder;
+    height: 35px;
+}

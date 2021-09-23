@@ -38,6 +38,9 @@
       href="https://fonts.googleapis.com/css?family=Tangerine"
     />
     <link rel="stylesheet" href="css/home.css" />
+    <link rel="stylesheet" href="css/contact.css">
+    <script src="./js/jquery.js"></script>
+    <script src="./js/contact.js"></script>
     <title>Bizzy Fashions</title>
   </head>
   <body>
@@ -52,9 +55,13 @@
           </ul>
         </div>
       </nav>
-
-
-     <!-- Footer -->
+      <br><br><br><br>
+      <h1>We Value Your Feedback.</h1>
+      <form action="">
+          <input type="text" id="name" placeholder="your name" required>
+          <textarea name="feedback" id="feedback" cols="30" rows="10" placeholder="feedback here." required ></textarea>
+          <button type="submit" id="submit" class="bg-success" >Send</button>
+      </form>
      <footer class="page-footer font-small bg-dark">
         <h3 id="cont" class="text-center">Contact Us</h3>
 
